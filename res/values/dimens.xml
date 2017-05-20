@@ -1,0 +1,7 @@
+<resources>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="button_image_margin">20dp</dimen>
+    <dimen name="button_text_height">30dp</dimen>
+    <dimen name="button_label_size">20sp</dimen>
+    <dimen name="button_label_margin">10dp</dimen>
+</resources>

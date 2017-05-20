@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Study Helper</string>
+    <string name="action_settings">Settings</string>
+    <string name="assignments_label">Assignments</string>
+    <string name="commitments_label">Commitments</string>
+    <string name="settings_label">Settings</string>
+    <string name="todo_label">To-Do List</string>
+    <string name="exams_label">Exams</string>
+    <string name="calendar_label">Calendar</string>
+</resources>
